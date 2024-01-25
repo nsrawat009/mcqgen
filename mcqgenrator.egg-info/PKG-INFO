@@ -3,7 +3,7 @@ Name: mcqgenrator
 Version: 0.0.1
 Author: narendra rawat
 Author-email: rawatnarendra009@gmail.com
-Requires-Dist: openai
+Requires-Dist: google.generativeai
 Requires-Dist: langchain
 Requires-Dist: streamlit
 Requires-Dist: python-dotenv

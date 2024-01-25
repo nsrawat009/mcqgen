@@ -1,8 +1,8 @@
-openai
+
 langchain
 streamlit
 python-dotenv
 PyPDF2
-
-
+google.generativeai
+google-cloud-language
 -e .
