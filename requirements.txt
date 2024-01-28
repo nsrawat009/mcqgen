@@ -5,4 +5,5 @@ python-dotenv
 PyPDF2
 google.generativeai
 google-cloud-language
+google-cloud-aiplatform
 -e .
